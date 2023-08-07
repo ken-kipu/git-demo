@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Added extra text below
+## Website Contents
 
-This is the extra text that I'm adding to prove that git actually works.
-
-Adding some more text.
+1. index.html
