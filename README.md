@@ -6,4 +6,4 @@ This is the first file in this repo.
 
 Here are the website files.
 
-1. index.html
+1. web/index.html
